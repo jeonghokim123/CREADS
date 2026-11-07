@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+outputs/
+gadm/
+figures/gadm/
+creads/
+creads_repro/
